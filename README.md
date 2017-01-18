@@ -1,4 +1,4 @@
-<script src="https://amp.ai/libs/09da0c0907b2cfb6.js"></script>
+<script src="https://amp.ai/libs/09da0c0907b2cfb6.js" amp-config="{domain:'https://dev.amp.ai'}"></script>
 
 
 ## Welcome to GitHub Pages
